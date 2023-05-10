@@ -20,6 +20,13 @@
 # albahaca fresca picada
 # rucula tierna con aceite de oliva 
 # preparacion de la pizza
+# se le agregan ingredientes a la masa y se amasa a mano 
+# aplanar la bola de masa y estirar en una ronda 
+# se le unta la salsa de tomate 
+# se pone el resto de ingredientes 
+# se mete al horno a 475 grados 
+# fin.
+
 
 
 
