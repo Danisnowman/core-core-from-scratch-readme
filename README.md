@@ -38,4 +38,4 @@ COMO CONVERTIR EN GRADOS CELSIUS A FAHRENHEIT
 # multiplique por .5556 (9/5).
 # se agrega 32
 # resultado 86F
-
+# fin
