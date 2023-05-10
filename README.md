@@ -47,3 +47,7 @@ COMO SACAR EL VOLUMEN DE UNA PIRAMIDE
 # v=1/3
 # x area de la base 
 # por altura 
+
+PSEUDOCODIGO
+# PROBLEMA LOGICO
+
