@@ -28,5 +28,14 @@
 # fin.
 
 
-
+INICIO
+COMO CONVERTIR TEMPERATURAS 
+COMO CONVERTIR EN FAHRENHEIT A CELSIUS 
+# se resta 32
+# se multiplica POR .5556 (5/9).
+# resultado 10 C
+COMO CONVERTIR EN GRADOS CELSIUS A FAHRENHEIT
+# multiplique por .5556 (9/5).
+# se agrega 32
+# resultado 86F
 
