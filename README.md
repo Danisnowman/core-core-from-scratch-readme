@@ -39,3 +39,11 @@ COMO CONVERTIR EN GRADOS CELSIUS A FAHRENHEIT
 # se agrega 32
 # resultado 86F
 # fin
+
+INICIO
+GEOMETRIA 
+COMO SACAR EL VOLUMEN DE UNA PIRAMIDE 
+# SE CALCULA CON UNA FORMULA
+# v=1/3
+# x area de la base 
+# por altura 
