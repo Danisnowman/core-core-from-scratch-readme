@@ -49,5 +49,7 @@ COMO SACAR EL VOLUMEN DE UNA PIRAMIDE
 # por altura 
 
 PSEUDOCODIGO
-# PROBLEMA LOGIC
+# PROBLEMA LOGICo
 
+quien estudio matematicas ayer 
+alice:]
