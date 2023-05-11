@@ -49,7 +49,13 @@ COMO SACAR EL VOLUMEN DE UNA PIRAMIDE
 # por altura 
 
 PSEUDOCODIGO
-# PROBLEMA LOGICo
+# PROBLEMA LOGICO
 
 quien estudio matematicas ayer 
-alice:]
+# Alice: nadie estudio matematicas ayer
+# Bob: 1 persona estudio matematicas ayer
+# Charlie: 2 personas estudiaron matematicas ayer 
+# Dan: 3 personas estudiaron matematicas ayer
+# Eva 4 personas estudiaron matematicas ayer
+# quien esta diciendo la verdad?
+# respuesta: bob dice la verdad ya que el fue el unico que estudio
