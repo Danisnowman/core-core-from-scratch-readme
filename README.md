@@ -59,3 +59,10 @@ quien estudio matematicas ayer
 # Eva 4 personas estudiaron matematicas ayer
 # quien esta diciendo la verdad?
 # respuesta: bob dice la verdad ya que el fue el unico que estudio
+
+ALGORITMO DE CEREAL CON LECHE 
+# Tener un tazon
+# Poner la leche
+# Ponerle el cereal
+# Ponerle una servidora  
+# DISFRUTAR 
