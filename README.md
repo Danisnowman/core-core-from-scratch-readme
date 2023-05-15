@@ -66,3 +66,6 @@ ALGORITMO DE CEREAL CON LECHE
 # Ponerle el cereal
 # Ponerle una servidora  
 # DISFRUTAR 
+
+IMPRIMIR NOMBRE
+![IMG_20230515_155106](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/b9cf9de0-54d2-4713-b43f-7914e247f1b5)
