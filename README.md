@@ -67,5 +67,13 @@ ALGORITMO DE CEREAL CON LECHE
 # Ponerle una servidora  
 # DISFRUTAR 
 
-IMPRIMIR NOMBRE
+# IMPRIMIR NOMBRE
+![IMG_20230515_172445](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/5e5626f0-51b1-41d0-a23a-70b2f4465604)
+
+# IMPRIMIR NOMBRE Y EDAD
 ![IMG_20230515_155106](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/b9cf9de0-54d2-4713-b43f-7914e247f1b5)
+
+
+
+
+
