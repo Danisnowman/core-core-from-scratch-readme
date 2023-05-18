@@ -47,6 +47,9 @@ COMO SACAR EL VOLUMEN DE UNA PIRAMIDE
 # v=1/3
 # x area de la base 
 # por altura 
+COMO SACAR EL VOLUMEN DE UNA ESFERA
+# Se calcula con una formula 
+# v=4/3
 
 PSEUDOCODIGO
 # PROBLEMA LOGICO
