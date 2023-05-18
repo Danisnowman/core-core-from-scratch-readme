@@ -24,7 +24,8 @@
 # aplanar la bola de masa y estirar en una ronda 
 # se le unta la salsa de tomate 
 # se pone el resto de ingredientes 
-# se mete al horno a 475 grados 
+# se mete al horno a 4
+75 grados 
 # fin.
 
 
@@ -76,7 +77,7 @@ ALGORITMO DE CEREAL CON LECHE
 # IMPRIMIR NOMBRE 
 ![IMG_20230515_155106](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/b9cf9de0-54d2-4713-b43f-7914e247f1b5)
 
-
-
+EJERCICIO DE CLASE , CONDICIONALES 
+[IMG_20230518_174446](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/124a6537-79e9-4418-aa69-cb4aecf40d9d)
 
 
