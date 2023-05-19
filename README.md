@@ -57,12 +57,22 @@ COMO SACAR EL VOLUMEN DE UNA ESFERA
 # conocer el radio 
 # realizar la formula 
 # fin
-
-INICIO
+ 
+INICIO 
 # NUMEROS
 # COMO VERIFICAR SI UN NUMERO ES PAR O INPAR
 # SABER CUAL NUMERO VERIFICAREMOS 
-# 
+# un numero par se puede dividir a la mitad si obtener un numero decimal
+# un numero impar se divide a la mitad pero obteniendo un numero decimal 
+FIN.  
+
+INICIO
+# tener la fecha de nacimiento de la persona
+# tener la fecha actual
+# restar el año actual con el año de la fecha de nacimiento
+# el resultado de la resta sera la respuesta de la edad 
+FIN.
+
 
 
 PSEUDOCODIGO
