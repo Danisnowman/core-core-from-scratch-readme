@@ -112,5 +112,11 @@ ALGORITMO DE CEREAL CON LECHE
 
 ![IMG_20230522_155516](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/8d72fb17-9152-4c72-bab5-bf8afe17cdc7)
 
+# FORMULARIO
+
+![IMG_20230522_172741](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/1f02fa9d-ddc7-44e5-8097-c73fc820553b)
+![IMG_20230522_172730](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a14430ff-4d88-4f62-aa15-80d5d64e101f)
+
+
 
 
