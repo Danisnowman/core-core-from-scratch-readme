@@ -100,12 +100,17 @@ ALGORITMO DE CEREAL CON LECHE
 # IMPRIMIR NOMBRE 
 ![IMG_20230515_155106](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/b9cf9de0-54d2-4713-b43f-7914e247f1b5)
 
-EJERCICIO DE CLASE , CONDICIONALES 
+# EJERCICIO DE CLASE , CONDICIONALES 
 [IMG_20230518_174446](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/124a6537-79e9-4418-aa69-cb4aecf40d9d)
 
-MOD
+# MOD
 ![IMG_20230519_170112](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/7bc96e6e-5d4a-4eb4-87a2-f537ffddcf57)
 
 ![IMG_20230519_170054](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/e51f3238-91f3-4926-9418-53ea39f5f99d)
+
+# ejercicio de clase programada 
+
+![IMG_20230522_155516](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/8d72fb17-9152-4c72-bab5-bf8afe17cdc7)
+
 
 
