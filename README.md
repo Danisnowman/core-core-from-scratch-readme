@@ -73,6 +73,15 @@ INICIO
 # el resultado de la resta sera la respuesta de la edad 
 FIN.
 
+ENCUENTRA EL TESORO 
+INICIO
+# saber cual cofre tiene un tesoro?
+# los tesoros tienen un mensaje 
+# cofre izquierdo: el cofre del medio tiene un tesoro
+# cofre medio: todos estos cofres tienen tesoros dentro
+# cofre derecho: solo uno de estos cofres tiene tesoros 
+# que cofres tienen tesoro?
+resultado : EL COFRE DEL MEDIO TIENE TESORO O TODOS TIENEN TESORO 
 
 
 PSEUDOCODIGO
