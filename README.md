@@ -143,6 +143,8 @@ TABLAS DE VERDAD
 # ~(( V|F) & (F|F)) & F =✅
 # ~(( V|F) & (F|F)) & V= ✅
 
-
+RESULTADOS BOLEANOS
+![IMG_20230526_173213](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/7179325e-d4fc-44c4-9309-05ff0f5f90c2)
+OLEANOS 
 
 
