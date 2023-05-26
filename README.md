@@ -127,5 +127,22 @@ ALGORITMO DE CEREAL CON LECHE
 ![IMG_20230522_172730](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a14430ff-4d88-4f62-aa15-80d5d64e101f)
 
 
+TABLAS DE VERDAD 
+# V & V ✅
+# V & F ❌
+# F & V ❌
+# F & F ✅
+# V | V ✅
+# V | F ✅
+# F | V ✅
+# F | F ✅
+# ~ V = ❌
+# ~ F = ✅
+# (V & F) | (~F) = ✅
+# ( V | F) & (F|F) = ❌
+# ~(( V|F) & (F|F)) & F =✅
+# ~(( V|F) & (F|F)) & V= ✅
+
+
 
 
