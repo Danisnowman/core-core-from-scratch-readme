@@ -146,5 +146,9 @@ TABLAS DE VERDAD
 RESULTADOS BOLEANOS
 ![IMG_20230526_173213](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/7179325e-d4fc-44c4-9309-05ff0f5f90c2)
 
+IDENTIFICAR NUMEROS PARES E IMPARES 
+![IMG_20230530_161740](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/3f9b55cb-2d08-4fa4-8884-54e22e09d7e9)
+![IMG_20230530_161755](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/6dbf639a-5549-4dd3-898e-9521cf5513ac)
+
 
 
