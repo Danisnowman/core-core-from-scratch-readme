@@ -150,5 +150,15 @@ IDENTIFICAR NUMEROS PARES E IMPARES
 ![IMG_20230530_161740](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/3f9b55cb-2d08-4fa4-8884-54e22e09d7e9)
 ![IMG_20230530_161755](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/6dbf639a-5549-4dd3-898e-9521cf5513ac)
 
+CALCULADORA SIMPLE
+![IMG_20230530_171547](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/b41652d0-6e82-4a72-b424-b8713e6e3782)
+
+![IMG_20230530_171504](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/24bde7eb-bc29-4a74-9c0b-f4d6b63e1139)
+
+NUMERO ESPECIAL
+![IMG_20230530_175330](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/bccb9493-bbb3-4fd5-9e9e-1d14a01c22cf)
+
+![IMG_20230530_175409](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a370ad11-ef6b-43fa-88d2-da31b60ca77c)
+
 
 
