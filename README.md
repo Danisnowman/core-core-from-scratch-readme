@@ -161,4 +161,6 @@ NUMERO ESPECIAL
 ![IMG_20230530_175409](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a370ad11-ef6b-43fa-88d2-da31b60ca77c)
 
 
+![IMG_20230530_175254](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/23fd61ff-9570-4517-bfb6-eaa67de107bb)
 
+EJERCICIO DE CLASE
