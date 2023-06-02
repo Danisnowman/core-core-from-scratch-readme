@@ -127,7 +127,7 @@ ALGORITMO DE CEREAL CON LECHE
 ![IMG_20230522_172730](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a14430ff-4d88-4f62-aa15-80d5d64e101f)
 
 
-TABLAS DE VERDAD 
+## TABLAS DE VERDAD 
 # V & V ✅
 # V & F ❌
 # F & V ❌
@@ -143,19 +143,19 @@ TABLAS DE VERDAD
 # ~(( V|F) & (F|F)) & F =✅
 # ~(( V|F) & (F|F)) & V= ✅
 
-RESULTADOS BOLEANOS
+# RESULTADOS BOLEANOS
 ![IMG_20230526_173213](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/7179325e-d4fc-44c4-9309-05ff0f5f90c2)
 
-IDENTIFICAR NUMEROS PARES E IMPARES 
+# IDENTIFICAR NUMEROS PARES E IMPARES 
 ![IMG_20230530_161740](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/3f9b55cb-2d08-4fa4-8884-54e22e09d7e9)
 ![IMG_20230530_161755](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/6dbf639a-5549-4dd3-898e-9521cf5513ac)
 
-CALCULADORA SIMPLE
+# CALCULADORA SIMPLE
 ![IMG_20230530_171547](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/b41652d0-6e82-4a72-b424-b8713e6e3782)
 
 ![IMG_20230530_171504](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/24bde7eb-bc29-4a74-9c0b-f4d6b63e1139)
 
-NUMERO ESPECIAL
+# NUMERO ESPECIAL
 ![IMG_20230530_175330](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/bccb9493-bbb3-4fd5-9e9e-1d14a01c22cf)
 
 ![IMG_20230530_175409](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a370ad11-ef6b-43fa-88d2-da31b60ca77c)
@@ -163,7 +163,10 @@ NUMERO ESPECIAL
 
 ![IMG_20230530_175254](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/23fd61ff-9570-4517-bfb6-eaa67de107bb)
 
-CALCULADORA SIMPLE CON SWITCH
+# CALCULADORA SIMPLE CON SWITCH
+
+![IMG_20230602_174818](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a2f74e33-6dc4-4669-8913-4e8105cf9750)
+
 
 
 
