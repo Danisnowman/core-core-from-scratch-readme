@@ -163,4 +163,7 @@ NUMERO ESPECIAL
 
 ![IMG_20230530_175254](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/23fd61ff-9570-4517-bfb6-eaa67de107bb)
 
-EJERCICIO DE CLASE
+CALCULADORA SIMPLE CON SWITCH
+![0](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/1cb6ac8a-81de-4261-ae25-4b9252ccd14a)
+
+
