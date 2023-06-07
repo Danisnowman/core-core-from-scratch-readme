@@ -145,7 +145,33 @@ ALGORITMO DE CEREAL CON LECHE
 
 # RESULTADOS BOLEANOS
 ![IMG_20230526_173213](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/7179325e-d4fc-44c4-9309-05ff0f5f90c2)
+ 
+\\\
+Algoritmo resultadosBoleanos
+	a <- 5 == 3
+	//  a = falso 
+	// 5 no es = a 3 
+	b <- 4 <> 3
+	// b = verdadero
+	// 4 si es diferente a 3 
+	c <- 7 > 7
+	// c = a falso 
+	// 7 no es mas que 7 
+	d <- 4 < 4 
+	// d = a falso 
+	// cuatro no es mayor que 4 
+	e <- 100 <= 90
+	// e = falso 
+	//  100 no es menor ni igual a 90
+	f <- 40 >= 40
+	// 40 es igual a 40 pero no es menor a 40
+	
+	
+FinAlgoritmo
 
+
+
+\\\
 # IDENTIFICAR NUMEROS PARES E IMPARES 
 ![IMG_20230530_161740](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/3f9b55cb-2d08-4fa4-8884-54e22e09d7e9)
 ![IMG_20230530_161755](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/6dbf639a-5549-4dd3-898e-9521cf5513ac)
