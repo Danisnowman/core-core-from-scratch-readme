@@ -179,6 +179,25 @@ FinAlgoritmo
 ![IMG_20230530_171504](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/24bde7eb-bc29-4a74-9c0b-f4d6b63e1139)
 
 # NUMERO ESPECIAL
+```psc
+Algoritmo numeroEspecial
+	leer n 
+	si n == 100 entonces 
+		imprimir ' este es un numero especial'
+	SiNo
+		si n < 1000 & n % 10 == 0   entonces 
+			imprimir 'casi especial'
+		sino 
+			imprimir 'solo un numero regular'
+		FinSi
+		
+
+		
+	FinSi
+	
+FinAlgoritmo
+
+```
 ![IMG_20230530_175330](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/bccb9493-bbb3-4fd5-9e9e-1d14a01c22cf)
 
 ![IMG_20230530_175409](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a370ad11-ef6b-43fa-88d2-da31b60ca77c)
