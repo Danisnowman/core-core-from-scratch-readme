@@ -206,6 +206,32 @@ FinAlgoritmo
 ![IMG_20230530_175254](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/23fd61ff-9570-4517-bfb6-eaa67de107bb)
 
 # CALCULADORA SIMPLE CON SWITCH
+```psc
+Algoritmo calculadoraswtich
+	imprimir '=====CALCULADORA====='
+	imprimir 'ingrese el primer numero'
+	leer n1
+	imprimir 'ingrese el segundo numero'
+	leer n2
+	imprimir 'ingrese una operacion +,-,*,/'
+	leer op
+
+	
+	Segun op Hacer
+		'+':
+			Imprimir 'resultado:', ConvertirATexto( n1 + n2)
+		'-':
+			Imprimir 'resultado:', ConvertirATexto( n1 - n2)
+		'*':
+			Imprimir 'resultado:', ConvertirATexto( n1 * n2)
+		'/':
+			Imprimir 'resultado:', ConvertirATexto(n1 / n2)
+			
+		De Otro Modo:
+			imprimir 'la operacion no es valida'
+	
+  Fin Segun
+```
 
 ![IMG_20230602_174818](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a2f74e33-6dc4-4669-8913-4e8105cf9750)
 
