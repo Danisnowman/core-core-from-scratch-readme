@@ -234,6 +234,56 @@ Algoritmo calculadoraswtich
 ```
 
 ![IMG_20230602_174818](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a2f74e33-6dc4-4669-8913-4e8105cf9750)
+# programa de opciones multiples
+```PSC
+Algoritmo opmultiple
+	Imprimir '======= Opcion Multiple ======='
+	Imprimir 'Opciones Disponibles'
+	Imprimir '1. Sumar de dos numeros'
+	Imprimir '2. Imprimir dia de la semana'
+	Imprimir '3. Calcular longitud de texto'
+	Imprimir 'Ingrese la opcion:'
+	Leer op
+	Segun op Hacer
+		1:
+			Imprimir 'Opcion 1. Sumar de dos numeros'
+			Imprimir 'Ingrese primer numero'
+			Leer n1
+			Imprimir 'Ingrese segundo numero'
+			Leer n2
+			Imprimir 'Resultado: ' + ConvertirATexto(n1 + n2)
+		2:
+			Imprimir 'Opcion 2. Imprimir dia de la semana'
+			Imprimir 'Ingrese el dia de la semana en numeros (1-7)'
+			Leer dias
+			Segun dias Hacer
+				1:
+					Imprimir 'Lunes'
+				2:
+					Imprimir 'Martes'
+				3:
+					Imprimir 'Miercoles'
+				4:
+					Imprimir 'Jueves'
+				5:
+					Imprimir 'Viernes'
+				6:
+					Imprimir 'Sabado'
+				7:
+					Imprimir 'Domingo'
+				De Otro Modo:
+					Imprimir 'Dia incorrecto!'
+			Fin Segun
+		3:
+			Imprimir 'Opcion 3.Calcular longitud de texto'
+			Imprimir 'Ingrese un texto'
+			Leer cadena
+			Imprimir 'Resultado: ' + ConvertirATexto(Longitud(cadena))
+		De Otro Modo:
+			Imprimir 'Opcion incorrecta!'
+	Fin Segun
+FinAlgoritmo
+```
 
 # CASO EJERCICIO EN CLASE
 ```PSC
