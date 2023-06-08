@@ -259,5 +259,17 @@ Algoritmo casoEjercicio
 	
 FinAlgoritmo
 ```
-
-
+# TABLAS DE MULTIPLICAR FOR (PARA)
+```PSC
+Algoritmo tablasDMultiplicarFor
+	imprimir'  TABLAS DE MULTIPLICAR   '
+	imprimir'ingrese la tabla a calcular:'
+	leer tabla
+	Para op <-1 Hasta 10 Con Paso 1 Hacer
+		imprimir ConvertirATexto(tabla) + '*' + ConvertirATexto(op) + '='+ ConvertirATexto(tabla*op)
+	Fin Para
+	
+	
+	
+FinAlgoritmo
+```
