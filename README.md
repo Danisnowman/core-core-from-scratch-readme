@@ -289,3 +289,16 @@ Algoritmo mercado
 	
 FinAlgoritmo
 ```
+```psc
+Algoritmo contacto
+	imprimir' cuantos contactos desea agregar:'
+	leer tamano
+	dimension directorio[tamano]
+	Para contador <-1 Hasta tamano Hacer
+		imprimir 'ingrese el nombre del contacto:'
+		leer nombre
+		directorio[contador]=nombre 
+		
+	Fin Para
+FinAlgoritmo
+```	
