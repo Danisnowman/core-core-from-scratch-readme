@@ -235,7 +235,29 @@ Algoritmo calculadoraswtich
 
 ![IMG_20230602_174818](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a2f74e33-6dc4-4669-8913-4e8105cf9750)
 
-
-
+# CASO EJERCICIO EN CLASE
+```PSC
+Algoritmo casoEjercicio
+	imprimir 'que operacion desea realizar (suma\resta\muultiplicacion\division)'
+	leer operacion 
+	escribir 'ingrese primer numero'
+	leer n1
+	escribir 'ingrese segundo numero'
+	leer n2
+	segun operacion hacer 
+		'suma':
+			imprimir n1 + n2
+		'resta':
+			imprimir n1 - n2
+		'multiplicacion':
+			imprimir n1 * n2
+		'division':
+			imprimir n1 / n2
+		de otro modo:
+			escribir 'operarion no valida'
+	FinSegun
+	
+FinAlgoritmo
+```
 
 
