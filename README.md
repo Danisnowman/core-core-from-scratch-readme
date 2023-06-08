@@ -273,3 +273,19 @@ Algoritmo tablasDMultiplicarFor
 	
 FinAlgoritmo
 ```
+# EJERCICIO DE CLASE (LISTA)
+```PSC
+Algoritmo mercado
+	Dimension verduras[6]
+	verduras[1]='ejote'
+	verduras[2]='elote'
+	verduras[3]='zanahoria'
+	verduras[4]='tomate'
+	verduras[5]='cebolla'
+	verduras[6]='brocoli'
+	Para contador<-1 Hasta 6 Hacer
+		imprimir contador,' . ' ,verduras[contador]
+	Fin Para
+	
+FinAlgoritmo
+```
