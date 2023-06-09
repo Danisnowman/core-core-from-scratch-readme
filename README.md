@@ -285,11 +285,20 @@ Algoritmo opmultiple
 FinAlgoritmo
 ```
 
-# tablas de multiplicar
+# tablas de multiplicar(mientras)
 ```psc
-
-
-```
+Algoritmo tablasDeMultiplicar
+	imprimir '====TABLAS DE MULTIPLICAR===='
+	imprimir 'ingrese la tabla a calcular'
+	leer tabla 
+	definir iterador Como Entero
+	iterador <- +1
+	Mientras iterador <= 15 Hacer
+		imprimir ConvertirATexto(tabla),'*',ConvertirATexto(iterador),'=',ConvertirATexto(tabla * iterador)
+		iterador<-iterador +1
+	Fin Mientras
+	
+	```
 # CASO EJERCICIO EN CLASE
 ```PSC
 Algoritmo casoEjercicio
