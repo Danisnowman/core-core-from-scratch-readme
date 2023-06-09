@@ -299,6 +299,44 @@ Algoritmo tablasDeMultiplicar
 	Fin Mientras
 	
 	```
+```psc
+Algoritmo calculadoraWhile
+	imprimir 'CALCULADORA SIMPLE'
+	
+	Repetir
+	
+		imprimir'ingrese primer numero'
+		leer n1
+		imprimir 'ingrese segundo numero'
+		leer n2
+		imprimir 'ingrese una operacion:suma,resta,multipicacion,division'
+		leer op
+		
+		Segun op Hacer
+			suma:
+				imprimir'resultado:',ConvertirATexto(n1+n2)
+			resta:
+				imprimir'resultado:',ConvertirATexto(n1-n2)
+			multiplicacion:
+				imprimir'resultado:',ConvertirATexto(n1*n2)
+			division:
+				imprimir'resultado:',ConvertirATexto(n1/n2)
+				
+			De Otro Modo:
+				imprimir 'operacion incorrecta'
+		Fin Segun
+		
+		
+
+		imprimir'deseas continuar con otra operacion? si/no'
+		leer continuar	
+	Hasta Que   continuar = 'no' 
+	
+	
+FinAlgoritmo
+
+```
+	
 # CASO EJERCICIO EN CLASE
 ```PSC
 Algoritmo casoEjercicio
