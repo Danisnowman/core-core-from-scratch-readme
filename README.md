@@ -285,6 +285,11 @@ Algoritmo opmultiple
 FinAlgoritmo
 ```
 
+# tablas de multiplicar
+```psc
+
+
+```
 # CASO EJERCICIO EN CLASE
 ```PSC
 Algoritmo casoEjercicio
