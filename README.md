@@ -464,5 +464,6 @@ Algoritmo saludos
 	
 	
 FinAlgoritmo
-```![IMG_20230610_174430](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/50d8953e-2407-41b8-9a8f-69be6cf6d7c2)
+```
+![IMG_20230610_174430](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/50d8953e-2407-41b8-9a8f-69be6cf6d7c2)
 
