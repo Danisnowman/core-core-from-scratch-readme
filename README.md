@@ -435,6 +435,12 @@ Algoritmo n_ascendentes_desendentes
 
 FinAlgoritmo
 ```
+
+
+![IMG_20230610_175234](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/3fdcb034-38bd-47e5-b063-3ced420c51f2)
+
+
+
 ```psc
 Algoritmo saludos
 	
