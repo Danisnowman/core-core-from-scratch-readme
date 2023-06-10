@@ -402,8 +402,11 @@ Algoritmo contacto
 		directorio[contador]=nombre 
 		
 	Fin Para
+	
 FinAlgoritmo
-```	
+```
+
+# NUMEROS ASCENDENTES Y DESCENDENTES
 ```psc
 Algoritmo n_ascendentes_desendentes
 	imprimir'  NUMEROS ASCENDENTES Y DESCENDENTES  '
@@ -429,7 +432,37 @@ Algoritmo n_ascendentes_desendentes
 		De Otro Modo:
 			imprimir'opcion incorrecta'
 	Fin Segun
-	```
+
+FinAlgoritmo
+```
+```psc
+Algoritmo saludos
+	
+	imprimir '====saludos===='
+	cantidadS<-0
+	continuar<-'si'
+	Mientras continuar == 'si'  Hacer
+		imprimir 'ingrese la hora actual (0-23):'
+		leer hora 
+		si hora <= 12 entonces 
+			imprimir'buenos dias'
+		SiNo
+			si hora <= 18 Entonces
+				imprimir 'buenas noches'
+				
+			FinSi
+			
+		FinSi
+		cantidadS<-cantidadS  +1
+		imprimir 'desea continuar, si/no?'
+		leer continuar 
+		
+		
+	Fin Mientras
+	
+	imprimir 'cantidad de saludos realizados:' + ConvertirATexto(cantidadS)
 	
 	
 FinAlgoritmo
+```![IMG_20230610_174430](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/50d8953e-2407-41b8-9a8f-69be6cf6d7c2)
+
