@@ -404,3 +404,32 @@ Algoritmo contacto
 	Fin Para
 FinAlgoritmo
 ```	
+```psc
+Algoritmo n_ascendentes_desendentes
+	imprimir'  NUMEROS ASCENDENTES Y DESCENDENTES  '
+	imprimir'ingrese un numero:'
+	leer numero
+	imprimir'operaciones disponibles'
+	imprimir'opcion 1. imprimir en orden ascendente:'
+	imprimir'opcion 2. imprimir en orden descendente:'
+
+	leer opcion
+	Segun opcion Hacer
+		1:
+			imprimir'numeros ascendentes'
+			Para iteracion<-1 Hasta numero Con Paso 1 Hacer
+				imprimir ConvertirATexto(iteracion)
+			Fin Para
+		2:
+			imprimir'numeros descendentes'
+			
+			Para iteracion<-numero Hasta 1 Con Paso -1 Hacer
+				imprimir ConvertirATexto(iteracion)
+			Fin Para
+		De Otro Modo:
+			imprimir'opcion incorrecta'
+	Fin Segun
+	```
+	
+	
+FinAlgoritmo
