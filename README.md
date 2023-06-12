@@ -65,6 +65,7 @@ INICIO
 # un numero par se puede dividir a la mitad si obtener un numero decimal
 # un numero impar se divide a la mitad pero obteniendo un numero decimal 
 FIN.  
+![IMG_20230612_172415_edit_6648058431277](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/da32f0e7-098b-454b-997f-940f2b887b88)
 
 
 
