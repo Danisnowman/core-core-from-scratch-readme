@@ -66,6 +66,9 @@ INICIO
 # un numero impar se divide a la mitad pero obteniendo un numero decimal 
 FIN.  
 
+
+
+
 INICIO
 # tener la fecha de nacimiento de la persona
 # tener la fecha actual
