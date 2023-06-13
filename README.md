@@ -477,3 +477,35 @@ FinAlgoritmo
 ```
 ![IMG_20230610_174430](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/50d8953e-2407-41b8-9a8f-69be6cf6d7c2)
 
+
+# VENTAS POR COMISION
+```PSC
+Algoritmo ventas
+	imprimir'escribe el total de ventas ingresado:'
+	leer total 
+	venta = 0
+	Para iterador <-1 Hasta total Con Paso 1 Hacer
+		imprimir'escribe el valor de la venta:'
+		leer total2
+		venta=venta + total2
+	Fin Para
+	
+	promedio= venta / total2
+	imprimir'la venta promedio es:'
+	
+	si total < 5 Entonces
+		imprimir 'la comision recibida por el vendedor es:',venta * 0.15
+	SiNo
+		imprimir 'la comision recibida por el vendedor es:',venta * 0.10
+	
+		
+		
+	FinSi
+	
+FinAlgoritmo
+```
+![IMG_20230613_164751](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/d88a1183-6d80-41de-a7d9-840e2a5d831f)
+
+
+
+
