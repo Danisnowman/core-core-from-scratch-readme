@@ -506,6 +506,62 @@ FinAlgoritmo
 ```
 ![IMG_20230613_164751](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/d88a1183-6d80-41de-a7d9-840e2a5d831f)
 
+# EJERCICIO DE CLASE(FUNCIONES)
+```PSC
+Funcion resultado <- suma ( numero1, numero2 )
+	resultado = numero1 + numero2
+Fin Funcion
+Funcion resultado <- resta ( numero1, numero2 )
+	resultado = numero1 - numero2
+FinFuncion
 
+Funcion resultado <- multiplicacion ( numero1, numero2 )
+	resultado = numero1 * numero2
+	
+Fin Funcion
+Funcion resultado <- division ( numero1, numero2 )
+	resultado = numero1 / numero2
+Fin Funcion
+Funcion resultado <- modulo ( numero1, numero2 )
+	resultado = numero1 % numero2
+Fin Funcion
 
-
+Algoritmo funciones
+	imprimir'==== CALCULADORA ===='
+	iterador<- 0
+	Repetir
+		imprimir'que operacion desea realizar?'
+		leer op
+		Imprimir "Ingrese un numero"
+		Leer numero1
+		Imprimir "Ingrese otro numero"
+		Leer numero2
+		Segun op Hacer
+			'suma':
+				imprimir Mayusculas('el resultado de suma es:') convertirATexto(numero1 + numero2)
+			'resta':
+				imprimir  Mayusculas('el resultado de resta es:') ConvertirATexto(numero1 - numero2)
+			'multiplicacion':
+				imprimir  Mayusculas('el resultado de multiplicacion es:')  ConvertirATexto(numero1 * numero2)
+			'division':
+				imprimir  Mayusculas('el resultado de division es:') ConvertirATexto(numero1 / numero2)
+			'modulo':
+				imprimir Mayusculas('el resultado de mod es:')  ConvertirATexto(numero1 % numero2)
+				
+				
+				
+			De Otro Modo:
+				imprimir'operacion incorrecta' 
+		Fin Segun
+		
+		imprimir'desea continuar(si o no)'
+		leer terminar
+		
+	Hasta Que terminar== 'no'
+		
+		
+		
+	
+	
+FinAlgoritmo
+```
