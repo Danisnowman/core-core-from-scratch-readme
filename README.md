@@ -340,7 +340,51 @@ Algoritmo calculadoraWhile
 FinAlgoritmo
 
 ```
+# ejercicio de clase(algunas funciones)
+```psc
+Algoritmo monedaEscudo
+	imprimir'==JUGUEMOS MONEDA Y ESCUDO =='
+	imprimir'elija cara (1) o escudo (2)'
+	leer seleccion
 	
+	
+	numeroaleatorio = azar(2)
+	Si seleccion == 1 Entonces
+		imprimir'selecciono cara'
+	
+	SiNo
+		imprimir'selecciono escudo'
+		
+	Fin Si
+	
+	Si numeroaleatorio== 1 Entonces
+		imprimir'la moneda cayo cara'
+	SiNo
+		imprimir'la moneda cayo escudo'
+	Fin Si
+	Si seleccion==numeroaleatorio Entonces
+		imprimir Mayusculas('has ganado')
+	
+	SiNo
+		imprimir Mayusculas('has perdido')
+	Fin Si
+	horaActual = ConvertirATexto(123010)
+	soloHora = Subcadena(horaActual, 1, 2)
+	soloMinutos = Subcadena(horaActual, 3, 4)
+	soloSegundos = Subcadena(horaActual, 5, 6)
+	horaAct = soloHora + ":" + soloMinutos + ":" + soloSegundos
+	Imprimir "Hora actual: ", horaAct
+	fechaActualCompleta = ConvertirATexto(140623)
+	soloElAnio = Subcadena(fechaActualCompleta, 1, 2)
+	soloElMes = Subcadena(fechaActualCompleta, 3, 4)
+	soloElDia = Subcadena(fechaActualCompleta, 5, 6)
+	Imprimir "Fecha actual: ", soloElDia + "-" + soloElMes + "-" + soloElAnio
+
+FinAlgoritmo
+```
+
+
+ 
 # CASO EJERCICIO EN CLASE
 ```PSC
 Algoritmo casoEjercicio
