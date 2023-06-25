@@ -611,7 +611,7 @@ FinAlgoritmo
 ```psc
 Algoritmo parimpar
 	Repetir
-		Escribir "Escribe un numero entre 1 y 50"
+		Escribir 'Escribe un numero entre 1 y 50'
 		leer num
 		SI  num < 1  | num > 50 Entonces
 			Imprimir 'Numero invalido'
@@ -628,5 +628,18 @@ Algoritmo parimpar
 			Imprimir count
 		FinSi
 	FinPara
+FinAlgoritmo
+```
+```psc
+Algoritmo nombreCompleto
+
+		imprimir 'Escribe un nombre'
+		leer nombre
+		imprimir 'Escribe un apellido'
+		leer apellido
+		nombre2 = Mayusculas(Subcadena(nombre,0,0)) + Minusculas(Subcadena(nombre,1,Longitud(nombre)-1))
+		apellido2 = Mayusculas(Subcadena(apellido,0,0)) + Minusculas(Subcadena(apellido,1,Longitud(apellido)-1))
+		Imprimir nombre2, ' ',apellido2
+
 FinAlgoritmo
 ```
