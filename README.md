@@ -657,3 +657,17 @@ Algoritmo lanzarDados
 	FinPara
 FinAlgoritmo
 ```
+```psc
+Algoritmo distanciaAcero
+	Escribir 'Escribe un numero'
+	leer distancia
+	Para contador=1 Hasta 4 Con Paso 1 Hacer
+		imprimir 'Escribe un numero'
+		leer num
+		SI Abs(num) > Abs(distancia) Entonces
+			distancia = num
+		FinSi
+	FinPara
+	Imprimir Trunc(distancia)
+FinAlgoritmo
+```
