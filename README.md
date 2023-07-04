@@ -671,3 +671,35 @@ Algoritmo distanciaAcero
 	Imprimir Trunc(distancia)
 FinAlgoritmo
 ```
+```psc
+Algoritmo lanzarLaMoneda
+	
+	Escribir "Ingresa el nombre del primer jugador"
+	leer jugada1
+	Escribir "Ingresa la cantidad a jugar"
+	leer cantidad1
+	Escribir "Ingresa el nombre del segundo jugador"
+	leer jugada2
+	Escribir "Ingresa la cantidad a jugar"
+	leer cantidad2
+	
+	SI cantidad1<=0 | cantidad2 <=0 Entonces
+		SI cantidad1<=0 & cantidad2 <=0 Entonces
+			Imprimir "Juego Cancelado"
+		SiNo
+			SI cantidad1<=0 Entonces
+				Imprimir "Jugador que gana: ", Mayusculas(jugada2), " cantidad ganada: 0"
+			SiNo
+				Imprimir "Jugador que gana: ", Mayusculas(jugada1), " cantidad ganada: 0"
+			FinSi
+		FinSi
+	SiNo
+		SI Aleatorio(1,2) = 1 Entonces
+			Imprimir "Jugador que gana: ", Mayusculas(jugada1), " cantidad ganada: ", cantidad2
+		SiNo
+			Imprimir "Jugador que gana: ", Mayusculas(jugada2), " cantidad ganada: ", cantidad1
+		FinSi
+	FinSi
+	
+FinAlgoritmo
+```
