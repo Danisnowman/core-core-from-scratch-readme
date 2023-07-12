@@ -637,8 +637,8 @@ Algoritmo nombreCompleto
 		leer nombre
 		imprimir 'Escribe un apellido'
 		leer apellido
-		nombre2 = Mayusculas(Subcadena(nombre,0,0)) + Minusculas(Subcadena(nombre,1,Longitud(nombre)-1))
-		apellido2 = Mayusculas(Subcadena(apellido,0,0)) + Minusculas(Subcadena(apellido,1,Longitud(apellido)-1))
+		nombre2 = Mayusculas(Subcadena(nombre,0,1)) + Minusculas(Subcadena(nombre,2,Longitud(nombre)-1))
+		apellido2 = Mayusculas(Subcadena(apellido,0,1)) + Minusculas(Subcadena(apellido,2,Longitud(apellido)-1))
 		Imprimir nombre2, ' ',apellido2
 
 FinAlgoritmo
