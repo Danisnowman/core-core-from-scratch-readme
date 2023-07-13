@@ -703,3 +703,11 @@ Algoritmo lanzarLaMoneda
 	
 FinAlgoritmo
 ```
+# JAVASCRIPT
+# Exercise
+Declare a variable firstname and initialize it with the value 'Lata'.
+```psc
+let firstname='Lata';
+console.log(firstname);
+```
+
