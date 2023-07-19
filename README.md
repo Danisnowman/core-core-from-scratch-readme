@@ -703,6 +703,49 @@ Algoritmo lanzarLaMoneda
 	
 FinAlgoritmo
 ```
+```psc
+Funcion value <- preciototal (precio, iva)
+		Definir valr Como Real;
+		SI precio > 3000 Entonces
+			valr = ( precio + (precio/100*iva) ) / 100*90
+		SiNo
+			valr = ( precio + (precio/100*iva) )
+		FinSi
+	Fin Funcion
+	
+	Algoritmo ejercicioPrecioTotal
+		Imprimir preciototal(5000,21)
+
+FinAlgoritmo
+```
+```psc
+Funcion resultado <- Reversa (string)
+	Definir resultado Como Caracter
+	resultado = ""
+	Para contador = Longitud(string) Hasta 0 Con Paso -1 Hacer
+		letter = Subcadena(string,contador,contador)
+		SI letter = Mayusculas(letter) Entonces
+			letter = Minusculas(letter)
+		SiNo
+			letter = Mayusculas(letter)
+		FinSi
+		resultado = Concatenar(resultado, letter)
+	FinPara
+Fin Funcion
+
+
+Algoritmo ejemploReversa
+	Imprimir Reversa('NOEMI')
+	imprimir Reversa('noemi')
+FinAlgoritmo
+```
+```psc
+```
+```psc
+```
+```psc
+```
+
 # JAVASCRIPT
 # ejercicio
 Declare a variable firstname and initialize it with the value 'Lata'.
