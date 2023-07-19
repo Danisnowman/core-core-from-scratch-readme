@@ -704,10 +704,42 @@ Algoritmo lanzarLaMoneda
 FinAlgoritmo
 ```
 # JAVASCRIPT
-# Exercise
+# ejercicio
 Declare a variable firstname and initialize it with the value 'Lata'.
 ```psc
 let firstname='Lata';
 console.log(firstname);
 ```
+# ejercicio
+Declare una variable firstnamee inicialícela con el valor 'Lata'.
+```psc
+let firstname='Lata';
+console.log(firstname);
+```
+# ejercicio
+¿ Qué valor tiene xdespués de la ejecución del siguiente código?
+```psc
+let x = 'Geeta';
+```
+# respuesta = 'Geeta'
+# ejercicio
+Declara una variable flowery asígnale el valor 'rose'. Declare una segunda variable treey asígnele el valor 'maple'.
+```psc
+let flower = 'rose'
+let tree = 'maple'
+```
+# ejercicio
+¿ Qué valor tiene xdespués de la ejecución del siguiente código?
+```psc
+let x = 'Tic';
+x = 'Tac';
+x = 'Toe';
+```
+# respuesta =  'Toe'
+```psc
+```
+```psc
+```
+```
+```psc
 
