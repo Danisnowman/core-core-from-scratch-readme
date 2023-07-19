@@ -720,8 +720,8 @@ console.log(firstname);
 ¿ Qué valor tiene xdespués de la ejecución del siguiente código?
 ```psc
 let x = 'Geeta';
+respuesta = 'Geeta'
 ```
-# respuesta = 'Geeta'
 # ejercicio
 Declara una variable flowery asígnale el valor 'rose'. Declare una segunda variable treey asígnele el valor 'maple'.
 ```psc
@@ -734,13 +734,69 @@ let tree = 'maple'
 let x = 'Tic';
 x = 'Tac';
 x = 'Toe';
-# respuesta =  'Toe'
+respuesta =  'Toe'
 ```
-# respuesta =  'Toe'
+# ejercicio
+¿ Qué valor tiene xdespués de la ejecución del siguiente código?
+```psc
+let x = 'Laurel';
+let y = 'Hardy';
+let z = y;
+y = x;
+x = z;
+respuesta = 'Hardy'
+```
+# ejercicio
+Defina una función helloque devuelva 'Hello world!'.
+```psc
+function hello(){
+return  'Hello world!';
+}
+```
+# ejercicio
+Defina dos funciones. La primera función adebería devolver 'Hello a!'y la segunda función bdebería devolver 'Hello b!'.
+```psc
+function a () {
+return 'Hello a!';
+}
+function b () {
+return 'Hello b!';
+}
+```
+# ejercicio
+1. Defina una función greetque devuelva el valor 'Haydo!'.
+2. Declarar una variable salutation. Llame a la función greety asigne el resultado de la llamada a la variable salutation.
+```psc
+function greet (){
+return 'Haydo!';
+};
+let salutation = greet();
+```
+# ejercicio
+
 ```psc
 ```
 ```psc
 ```
+```psc
+```
+```psc
+```
+```psc
+```
+```psc
+```
+```psc
+```
+```psc
+```
+```psc
+```
+```psc
+```
+```psc
+```
+```psc
 ```
 ```psc
 
