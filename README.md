@@ -734,6 +734,7 @@ let tree = 'maple'
 let x = 'Tic';
 x = 'Tac';
 x = 'Toe';
+# respuesta =  'Toe'
 ```
 # respuesta =  'Toe'
 ```psc
