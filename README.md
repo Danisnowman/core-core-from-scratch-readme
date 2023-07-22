@@ -816,9 +816,14 @@ return 'Haydo!';
 let salutation = greet();
 ```
 # ejercicio
-
+¿ Qué valor tiene xdespués de la ejecución del siguiente código?
 ```psc
+'How do you do?'
+
 ```
+
+
+
 ```psc
 ```
 ```psc
