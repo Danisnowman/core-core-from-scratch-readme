@@ -818,7 +818,12 @@ let salutation = greet();
 # ejercicio
 ¿ Qué valor tiene xdespués de la ejecución del siguiente código?
 ```psc
-'How do you do?'
+function reply(phrase) {
+  return phrase;
+}
+let x = reply('How do you do?');
+
+respuesta = 'How do you do?'
 
 ```
 
