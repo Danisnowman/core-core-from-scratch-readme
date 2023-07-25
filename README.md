@@ -824,21 +824,47 @@ function reply(phrase) {
 let x = reply('How do you do?');
 
 respuesta = 'How do you do?'
+```
+# ejercicio
+Escriba una función echoque también devuelva el parámetro pasado. echo('Greta')debe volver 'Greta'y echo('CO2')debe volver'CO2'
+```psc
+function echo(Greta){
+  return Greta;
+}
+```
+# ejercicio
+Escriba una función greetque tenga un parámetro y regrese 'Hello <parameter>!'.
+```psc
+function greet(name) {
+  return 'Hello ' + name + '!';
+}
+```
+# ejercicio
+Escriba una función toCaseque tome una cadena y la devuelva en minúsculas y mayúsculas con -un delimitador.
+```psc
+function toCase (hola){
+return hola.toLowerCase()+ '-' + hola.toUpperCase();
+}
+```
+# ejercicio
+Escriba una función shortcutque tome dos cadenas y devuelva las letras iniciales de estas cadenas.
 
+```psc
+function shortcut (Noemi, Veliz){
+return Noemi.charAt(0) + Veliz.charAt(0);
+}
 ```
+# ejercicio
+¿Qué valor tiene x después de la ejecución del siguiente código?
+```psc
+let x = 3;
+x++;
+x = x * 2;
+x--;
+respuesta = 8
+```
+# ejercicio 
 
-
-
-```psc
-```
-```psc
-```
-```psc
-```
-```psc
-```
-```psc
-```
 ```psc
 ```
 ```psc
