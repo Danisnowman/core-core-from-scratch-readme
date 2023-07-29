@@ -1,4 +1,4 @@
-# core-core-from-scratch-readme hola
+# core-core-from-scratch-readme 
 # ingredientes para hacer una pizza
 # levadura
 # harina de pan 
