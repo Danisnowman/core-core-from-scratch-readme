@@ -1,127 +1,203 @@
-# core-core-from-scratch-readme 
+# core-core-from-scratch-readme
+
 # ingredientes para hacer una pizza
+
 # levadura
-# harina de pan 
+
+# harina de pan
+
 # aceite de oliva
+
 # sal kosher
+
 # azucar
+
 # harina de maiz
-# salsa de tomate 
+
+# salsa de tomate
+
 # queso mozarella firme, rallado
+
 # Queso mazzarella suave y fresco, separado en pequenos grumos
-# queso fontina, rallado 
-# queso parmesano, rallado 
+
+# queso fontina, rallado
+
+# queso parmesano, rallado
+
 # queso feta, desmenuzado
-# champinones en rodajas 
+
+# champinones en rodajas
+
 # pimientos morrones, cortados en rodajas finas
-# pepperoncini italiano 
+
+# pepperoncini italiano
+
 # salchicha italiana
+
 # aceitunas negras en rodajas
+
 # albahaca fresca picada
-# rucula tierna con aceite de oliva 
+
+# rucula tierna con aceite de oliva
+
 # preparacion de la pizza
-# se le agregan ingredientes a la masa y se amasa a mano 
-# aplanar la bola de masa y estirar en una ronda 
-# se le unta la salsa de tomate 
-# se pone el resto de ingredientes 
+
+# se le agregan ingredientes a la masa y se amasa a mano
+
+# aplanar la bola de masa y estirar en una ronda
+
+# se le unta la salsa de tomate
+
+# se pone el resto de ingredientes
+
 # se mete al horno a 4
-75 grados 
+
+75 grados
+
 # fin.
 
-
 INICIO
-COMO CONVERTIR TEMPERATURAS 
-COMO CONVERTIR EN FAHRENHEIT A CELSIUS 
+COMO CONVERTIR TEMPERATURAS
+COMO CONVERTIR EN FAHRENHEIT A CELSIUS
+
 # se resta 32
+
 # se multiplica POR .5556 (5/9).
+
 # resultado 10 C
+
 COMO CONVERTIR EN GRADOS CELSIUS A FAHRENHEIT
+
 # multiplique por .5556 (9/5).
+
 # se agrega 32
+
 # resultado 86F
+
 # fin
 
 INICIO
-GEOMETRIA 
-COMO SACAR EL VOLUMEN DE UNA PIRAMIDE 
+GEOMETRIA
+COMO SACAR EL VOLUMEN DE UNA PIRAMIDE
+
 # SE CALCULA CON UNA FORMULA
+
 # v=1/3
-# x area de la base 
-# por altura 
+
+# x area de la base
+
+# por altura
 
 INICIO
 COMO SACAR EL VOLUMEN DE UNA ESFERA
-# Se calcula con una formula 
+
+# Se calcula con una formula
+
 # v=4/3
+
 # Conocer el diametro
-# conocer el radio 
-# realizar la formula 
+
+# conocer el radio
+
+# realizar la formula
+
 # fin
- 
-INICIO 
+
+INICIO
+
 # NUMEROS
+
 # COMO VERIFICAR SI UN NUMERO ES PAR O INPAR
-# SABER CUAL NUMERO VERIFICAREMOS 
+
+# SABER CUAL NUMERO VERIFICAREMOS
+
 # un numero par se puede dividir a la mitad si obtener un numero decimal
-# un numero impar se divide a la mitad pero obteniendo un numero decimal 
+
+# un numero impar se divide a la mitad pero obteniendo un numero decimal
+
 FIN.  
 ![IMG_20230612_172415_edit_6648058431277](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/da32f0e7-098b-454b-997f-940f2b887b88)
 
-
-
-
 INICIO
+
 # tener la fecha de nacimiento de la persona
+
 # tener la fecha actual
+
 # restar el año actual con el año de la fecha de nacimiento
-# el resultado de la resta sera la respuesta de la edad 
+
+# el resultado de la resta sera la respuesta de la edad
+
 FIN.
 
-ENCUENTRA EL TESORO 
+ENCUENTRA EL TESORO
 INICIO
-# saber cual cofre tiene un tesoro?
-# los tesoros tienen un mensaje 
-# cofre izquierdo: el cofre del medio tiene un tesoro
-# cofre medio: todos estos cofres tienen tesoros dentro
-# cofre derecho: solo uno de estos cofres tiene tesoros 
-# que cofres tienen tesoro?
-resultado : EL COFRE DEL MEDIO TIENE TESORO O TODOS TIENEN TESORO 
 
+# saber cual cofre tiene un tesoro?
+
+# los tesoros tienen un mensaje
+
+# cofre izquierdo: el cofre del medio tiene un tesoro
+
+# cofre medio: todos estos cofres tienen tesoros dentro
+
+# cofre derecho: solo uno de estos cofres tiene tesoros
+
+# que cofres tienen tesoro?
+
+resultado : EL COFRE DEL MEDIO TIENE TESORO O TODOS TIENEN TESORO
 
 PSEUDOCODIGO
+
 # PROBLEMA LOGICO
 
-quien estudio matematicas ayer 
+quien estudio matematicas ayer
+
 # Alice: nadie estudio matematicas ayer
+
 # Bob: 1 persona estudio matematicas ayer
-# Charlie: 2 personas estudiaron matematicas ayer 
+
+# Charlie: 2 personas estudiaron matematicas ayer
+
 # Dan: 3 personas estudiaron matematicas ayer
+
 # Eva 4 personas estudiaron matematicas ayer
+
 # quien esta diciendo la verdad?
+
 # respuesta: bob dice la verdad ya que el fue el unico que estudio
 
-ALGORITMO DE CEREAL CON LECHE 
-# Tener un tazon
-# Poner la leche
-# Ponerle el cereal
-# Ponerle una servidora  
-# DISFRUTAR 
+ALGORITMO DE CEREAL CON LECHE
 
-# IMPRIMIR NOMBRE Y EDAD 
+# Tener un tazon
+
+# Poner la leche
+
+# Ponerle el cereal
+
+# Ponerle una servidora
+
+# DISFRUTAR
+
+# IMPRIMIR NOMBRE Y EDAD
+
 ![IMG_20230515_172445](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/5e5626f0-51b1-41d0-a23a-70b2f4465604)
 
-# IMPRIMIR NOMBRE 
+# IMPRIMIR NOMBRE
+
 ![IMG_20230515_155106](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/b9cf9de0-54d2-4713-b43f-7914e247f1b5)
 
-# EJERCICIO DE CLASE , CONDICIONALES 
+# EJERCICIO DE CLASE , CONDICIONALES
+
 [IMG_20230518_174446](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/124a6537-79e9-4418-aa69-cb4aecf40d9d)
 
 # MOD
+
 ![IMG_20230519_170112](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/7bc96e6e-5d4a-4eb4-87a2-f537ffddcf57)
 
 ![IMG_20230519_170054](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/e51f3238-91f3-4926-9418-53ea39f5f99d)
 
-# ejercicio de clase programada 
+# ejercicio de clase programada
 
 ![IMG_20230522_155516](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/8d72fb17-9152-4c72-bab5-bf8afe17cdc7)
 
@@ -130,86 +206,105 @@ ALGORITMO DE CEREAL CON LECHE
 ![IMG_20230522_172741](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/1f02fa9d-ddc7-44e5-8097-c73fc820553b)
 ![IMG_20230522_172730](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a14430ff-4d88-4f62-aa15-80d5d64e101f)
 
+## TABLAS DE VERDAD
 
-## TABLAS DE VERDAD 
 # V & V ✅
+
 # V & F ❌
+
 # F & V ❌
+
 # F & F ✅
+
 # V | V ✅
+
 # V | F ✅
+
 # F | V ✅
+
 # F | F ✅
+
 # ~ V = ❌
+
 # ~ F = ✅
+
 # (V & F) | (~F) = ✅
+
 # ( V | F) & (F|F) = ❌
+
 # ~(( V|F) & (F|F)) & F =✅
+
 # ~(( V|F) & (F|F)) & V= ✅
 
 # RESULTADOS BOLEANOS
+
 ![IMG_20230526_173213](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/7179325e-d4fc-44c4-9309-05ff0f5f90c2)
- 
+
 ```psc
 Algoritmo resultadosBoleanos
 	a <- 5 == 3
-	//  a = falso 
-	// 5 no es = a 3 
+	//  a = falso
+	// 5 no es = a 3
 	b <- 4 <> 3
 	// b = verdadero
-	// 4 si es diferente a 3 
+	// 4 si es diferente a 3
 	c <- 7 > 7
-	// c = a falso 
-	// 7 no es mas que 7 
-	d <- 4 < 4 
-	// d = a falso 
-	// cuatro no es mayor que 4 
+	// c = a falso
+	// 7 no es mas que 7
+	d <- 4 < 4
+	// d = a falso
+	// cuatro no es mayor que 4
 	e <- 100 <= 90
-	// e = falso 
+	// e = falso
 	//  100 no es menor ni igual a 90
 	f <- 40 >= 40
 	// 40 es igual a 40 pero no es menor a 40
-	
-	
+
+
 FinAlgoritmo
 ```
-# IDENTIFICAR NUMEROS PARES E IMPARES 
+
+# IDENTIFICAR NUMEROS PARES E IMPARES
+
 ![IMG_20230530_161740](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/3f9b55cb-2d08-4fa4-8884-54e22e09d7e9)
 ![IMG_20230530_161755](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/6dbf639a-5549-4dd3-898e-9521cf5513ac)
 
 # CALCULADORA SIMPLE
+
 ![IMG_20230530_171547](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/b41652d0-6e82-4a72-b424-b8713e6e3782)
 
 ![IMG_20230530_171504](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/24bde7eb-bc29-4a74-9c0b-f4d6b63e1139)
 
 # NUMERO ESPECIAL
+
 ```psc
 Algoritmo numeroEspecial
-	leer n 
-	si n == 100 entonces 
+	leer n
+	si n == 100 entonces
 		imprimir ' este es un numero especial'
 	SiNo
-		si n < 1000 & n % 10 == 0   entonces 
+		si n < 1000 & n % 10 == 0   entonces
 			imprimir 'casi especial'
-		sino 
+		sino
 			imprimir 'solo un numero regular'
 		FinSi
-		
 
-		
+
+
 	FinSi
-	
+
 FinAlgoritmo
 
 ```
+
 ![IMG_20230530_175330](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/bccb9493-bbb3-4fd5-9e9e-1d14a01c22cf)
 
 ![IMG_20230530_175409](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a370ad11-ef6b-43fa-88d2-da31b60ca77c)
 
-
 ![IMG_20230530_175254](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/23fd61ff-9570-4517-bfb6-eaa67de107bb)
 
 # CALCULADORA SIMPLE CON SWITCH
+
 ```psc
 Algoritmo calculadoraswtich
 	imprimir '=====CALCULADORA====='
@@ -220,7 +315,7 @@ Algoritmo calculadoraswtich
 	imprimir 'ingrese una operacion +,-,*,/'
 	leer op
 
-	
+
 	Segun op Hacer
 		'+':
 			Imprimir 'resultado:', ConvertirATexto( n1 + n2)
@@ -230,15 +325,17 @@ Algoritmo calculadoraswtich
 			Imprimir 'resultado:', ConvertirATexto( n1 * n2)
 		'/':
 			Imprimir 'resultado:', ConvertirATexto(n1 / n2)
-			
+
 		De Otro Modo:
 			imprimir 'la operacion no es valida'
-	
+
   Fin Segun
 ```
 
 ![IMG_20230602_174818](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/a2f74e33-6dc4-4669-8913-4e8105cf9750)
+
 # programa de opciones multiples
+
 ```PSC
 Algoritmo opmultiple
 	Imprimir '======= Opcion Multiple ======='
@@ -290,32 +387,33 @@ FinAlgoritmo
 ```
 
 # tablas de multiplicar(mientras)
-```psc
+
+````psc
 Algoritmo tablasDeMultiplicar
 	imprimir '====TABLAS DE MULTIPLICAR===='
 	imprimir 'ingrese la tabla a calcular'
-	leer tabla 
+	leer tabla
 	definir iterador Como Entero
 	iterador <- +1
 	Mientras iterador <= 15 Hacer
 		imprimir ConvertirATexto(tabla),'*',ConvertirATexto(iterador),'=',ConvertirATexto(tabla * iterador)
 		iterador<-iterador +1
 	Fin Mientras
-	
+
 	```
 ```psc
 Algoritmo calculadoraWhile
 	imprimir 'CALCULADORA SIMPLE'
-	
+
 	Repetir
-	
+
 		imprimir'ingrese primer numero'
 		leer n1
 		imprimir 'ingrese segundo numero'
 		leer n2
 		imprimir 'ingrese una operacion:suma,resta,multipicacion,division'
 		leer op
-		
+
 		Segun op Hacer
 			suma:
 				imprimir'resultado:',ConvertirATexto(n1+n2)
@@ -325,32 +423,33 @@ Algoritmo calculadoraWhile
 				imprimir'resultado:',ConvertirATexto(n1*n2)
 			division:
 				imprimir'resultado:',ConvertirATexto(n1/n2)
-				
+
 			De Otro Modo:
 				imprimir 'operacion incorrecta'
 		Fin Segun
-		
-		
+
+
 
 		imprimir'deseas continuar con otra operacion? si/no'
-		leer continuar	
-	Hasta Que   continuar = 'no' 
-	
-	
+		leer continuar
+	Hasta Que   continuar = 'no'
+
+
 FinAlgoritmo
 
-```
+````
 
 # CASO EJERCICIO EN CLASE
+
 ```PSC
 Algoritmo casoEjercicio
 	imprimir 'que operacion desea realizar (suma\resta\muultiplicacion\division)'
-	leer operacion 
+	leer operacion
 	escribir 'ingrese primer numero'
 	leer n1
 	escribir 'ingrese segundo numero'
 	leer n2
-	segun operacion hacer 
+	segun operacion hacer
 		'suma':
 			imprimir n1 + n2
 		'resta':
@@ -362,10 +461,12 @@ Algoritmo casoEjercicio
 		de otro modo:
 			escribir 'operarion no valida'
 	FinSegun
-	
+
 FinAlgoritmo
 ```
+
 # TABLAS DE MULTIPLICAR FOR (PARA)
+
 ```PSC
 Algoritmo tablasDMultiplicarFor
 	imprimir'  TABLAS DE MULTIPLICAR   '
@@ -374,12 +475,14 @@ Algoritmo tablasDMultiplicarFor
 	Para op <-1 Hasta 10 Con Paso 1 Hacer
 		imprimir ConvertirATexto(tabla) + '*' + ConvertirATexto(op) + '='+ ConvertirATexto(tabla*op)
 	Fin Para
-	
-	
-	
+
+
+
 FinAlgoritmo
 ```
+
 # EJERCICIO DE CLASE (LISTA)
+
 ```PSC
 Algoritmo mercado
 	Dimension verduras[6]
@@ -392,9 +495,10 @@ Algoritmo mercado
 	Para contador<-1 Hasta 6 Hacer
 		imprimir contador,' . ' ,verduras[contador]
 	Fin Para
-	
+
 FinAlgoritmo
 ```
+
 ```psc
 Algoritmo contacto
 	imprimir' cuantos contactos desea agregar:'
@@ -403,14 +507,15 @@ Algoritmo contacto
 	Para contador <-1 Hasta tamano Hacer
 		imprimir 'ingrese el nombre del contacto:'
 		leer nombre
-		directorio[contador]=nombre 
-		
+		directorio[contador]=nombre
+
 	Fin Para
-	
+
 FinAlgoritmo
 ```
 
 # NUMEROS ASCENDENTES Y DESCENDENTES
+
 ```psc
 Algoritmo n_ascendentes_desendentes
 	imprimir'  NUMEROS ASCENDENTES Y DESCENDENTES  '
@@ -429,7 +534,7 @@ Algoritmo n_ascendentes_desendentes
 			Fin Para
 		2:
 			imprimir'numeros descendentes'
-			
+
 			Para iteracion<-numero Hasta 1 Con Paso -1 Hacer
 				imprimir ConvertirATexto(iteracion)
 			Fin Para
@@ -440,89 +545,89 @@ Algoritmo n_ascendentes_desendentes
 FinAlgoritmo
 ```
 
-
 ![IMG_20230610_175234](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/3fdcb034-38bd-47e5-b063-3ced420c51f2)
-
-
 
 ```psc
 Algoritmo saludos
-	
+
 	imprimir '====saludos===='
 	cantidadS<-0
 	continuar<-'si'
 	Mientras continuar == 'si'  Hacer
 		imprimir 'ingrese la hora actual (0-23):'
-		leer hora 
-		si hora <= 12 entonces 
+		leer hora
+		si hora <= 12 entonces
 			imprimir'buenos dias'
 		SiNo
 			si hora <= 18 Entonces
 				imprimir 'buenas noches'
-				
+
 			FinSi
-			
+
 		FinSi
 		cantidadS<-cantidadS  +1
 		imprimir 'desea continuar, si/no?'
-		leer continuar 
-		
-		
+		leer continuar
+
+
 	Fin Mientras
-	
+
 	imprimir 'cantidad de saludos realizados:' + ConvertirATexto(cantidadS)
-	
-	
+
+
 FinAlgoritmo
 ```
+
 ![IMG_20230610_174430](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/50d8953e-2407-41b8-9a8f-69be6cf6d7c2)
 
-
 # VENTAS POR COMISION
+
 ```PSC
 Algoritmo ventas
 	imprimir'escribe el total de ventas ingresado:'
-	leer total 
+	leer total
 	venta = 0
 	Para iterador <-1 Hasta total Con Paso 1 Hacer
 		imprimir'escribe el valor de la venta:'
 		leer total2
 		venta=venta + total2
 	Fin Para
-	
+
 	promedio= venta / total2
 	imprimir'la venta promedio es:'
-	
+
 	si total < 5 Entonces
 		imprimir 'la comision recibida por el vendedor es:',venta * 0.15
 	SiNo
 		imprimir 'la comision recibida por el vendedor es:',venta * 0.10
-	
-		
-		
+
+
+
 	FinSi
-	
+
 FinAlgoritmo
 ```
+
 ![IMG_20230613_164751](https://github.com/noemivelizortiz/core-core-from-scratch-readme/assets/132409266/d88a1183-6d80-41de-a7d9-840e2a5d831f)
 
 # ejercicio de clase(algunas funciones)
+
 ```psc
 Algoritmo monedaEscudo
 	imprimir'==JUGUEMOS MONEDA Y ESCUDO =='
 	imprimir'elija cara (1) o escudo (2)'
 	leer seleccion
-	
-	
+
+
 	numeroaleatorio = azar(2)
 	Si seleccion == 1 Entonces
 		imprimir'selecciono cara'
-	
+
 	SiNo
 		imprimir'selecciono escudo'
-		
+
 	Fin Si
-	
+
 	Si numeroaleatorio== 1 Entonces
 		imprimir'la moneda cayo cara'
 	SiNo
@@ -530,7 +635,7 @@ Algoritmo monedaEscudo
 	Fin Si
 	Si seleccion==numeroaleatorio Entonces
 		imprimir Mayusculas('has ganado')
-	
+
 	SiNo
 		imprimir Mayusculas('has perdido')
 	Fin Si
@@ -550,6 +655,7 @@ FinAlgoritmo
 ```
 
 # EJERCICIO DE CLASE(FUNCIONES)
+
 ```PSC
 Funcion resultado <- suma ( numero1, numero2 )
 	resultado = numero1 + numero2
@@ -560,7 +666,7 @@ FinFuncion
 
 Funcion resultado <- multiplicacion ( numero1, numero2 )
 	resultado = numero1 * numero2
-	
+
 Fin Funcion
 Funcion resultado <- division ( numero1, numero2 )
 	resultado = numero1 / numero2
@@ -590,24 +696,25 @@ Algoritmo funciones
 				imprimir  Mayusculas('el resultado de division es:') ConvertirATexto(numero1 / numero2)
 			'modulo':
 				imprimir Mayusculas('el resultado de mod es:')  ConvertirATexto(numero1 % numero2)
-				
-				
-				
+
+
+
 			De Otro Modo:
-				imprimir'operacion incorrecta' 
+				imprimir'operacion incorrecta'
 		Fin Segun
-		
+
 		imprimir'desea continuar(si o no)'
 		leer terminar
-		
+
 	Hasta Que terminar== 'no'
-		
-		
-		
-	
-	
+
+
+
+
+
 FinAlgoritmo
 ```
+
 ```psc
 Algoritmo parimpar
 	Repetir
@@ -617,9 +724,9 @@ Algoritmo parimpar
 			Imprimir 'Numero invalido'
 		FinSi
 	Mientras Que num < 1  | num > 50
-	
+
 	par =  num % 2 = 0
-	
+
 	Para count=1 Hasta num Con Paso 1 Hacer
 		SI count % 2 = 0 & par Entonces
 			Imprimir count
@@ -630,6 +737,7 @@ Algoritmo parimpar
 	FinPara
 FinAlgoritmo
 ```
+
 ```psc
 Algoritmo nombreCompleto
 
@@ -643,6 +751,7 @@ Algoritmo nombreCompleto
 
 FinAlgoritmo
 ```
+
 ```psc
 Algoritmo lanzarDados
 	Definir dado1, dado2 Como Entero
@@ -657,6 +766,7 @@ Algoritmo lanzarDados
 	FinPara
 FinAlgoritmo
 ```
+
 ```psc
 Algoritmo distanciaAcero
 	Escribir 'Escribe un numero'
@@ -671,9 +781,10 @@ Algoritmo distanciaAcero
 	Imprimir Trunc(distancia)
 FinAlgoritmo
 ```
+
 ```psc
 Algoritmo lanzarLaMoneda
-	
+
 	Escribir "Ingresa el nombre del primer jugador"
 	leer jugada1
 	Escribir "Ingresa la cantidad a jugar"
@@ -682,7 +793,7 @@ Algoritmo lanzarLaMoneda
 	leer jugada2
 	Escribir "Ingresa la cantidad a jugar"
 	leer cantidad2
-	
+
 	SI cantidad1<=0 | cantidad2 <=0 Entonces
 		SI cantidad1<=0 & cantidad2 <=0 Entonces
 			Imprimir "Juego Cancelado"
@@ -700,9 +811,10 @@ Algoritmo lanzarLaMoneda
 			Imprimir "Jugador que gana: ", Mayusculas(jugada2), " cantidad ganada: ", cantidad1
 		FinSi
 	FinSi
-	
+
 FinAlgoritmo
 ```
+
 ```psc
 Funcion value <- preciototal (precio, iva)
 		Definir valr Como Real;
@@ -712,12 +824,13 @@ Funcion value <- preciototal (precio, iva)
 			valr = ( precio + (precio/100*iva) )
 		FinSi
 	Fin Funcion
-	
+
 	Algoritmo ejercicioPrecioTotal
 		Imprimir preciototal(5000,21)
 
 FinAlgoritmo
 ```
+
 ```psc
 Funcion resultado <- Reversa (string)
 	Definir resultado Como Caracter
@@ -739,143 +852,15 @@ Algoritmo ejemploReversa
 	imprimir Reversa('noemi')
 FinAlgoritmo
 ```
-```psc
-```
-```psc
-```
-```psc
-```
-
-# JAVASCRIPT
-# ejercicio
-Declare a variable firstname and initialize it with the value 'Lata'.
-```psc
-let firstname='Lata';
-console.log(firstname);
-```
-# ejercicio
-Declare una variable firstnamee inicialícela con el valor 'Lata'.
-```psc
-let firstname='Lata';
-console.log(firstname);
-```
-# ejercicio
-¿ Qué valor tiene xdespués de la ejecución del siguiente código?
-```psc
-let x = 'Geeta';
-respuesta = 'Geeta'
-```
-# ejercicio
-Declara una variable flowery asígnale el valor 'rose'. Declare una segunda variable treey asígnele el valor 'maple'.
-```psc
-let flower = 'rose'
-let tree = 'maple'
-```
-# ejercicio
-¿ Qué valor tiene xdespués de la ejecución del siguiente código?
-```psc
-let x = 'Tic';
-x = 'Tac';
-x = 'Toe';
-respuesta =  'Toe'
-```
-# ejercicio
-¿ Qué valor tiene xdespués de la ejecución del siguiente código?
-```psc
-let x = 'Laurel';
-let y = 'Hardy';
-let z = y;
-y = x;
-x = z;
-respuesta = 'Hardy'
-```
-# ejercicio
-Defina una función helloque devuelva 'Hello world!'.
-```psc
-function hello(){
-return  'Hello world!';
-}
-```
-# ejercicio
-Defina dos funciones. La primera función adebería devolver 'Hello a!'y la segunda función bdebería devolver 'Hello b!'.
-```psc
-function a () {
-return 'Hello a!';
-}
-function b () {
-return 'Hello b!';
-}
-```
-# ejercicio
-1. Defina una función greetque devuelva el valor 'Haydo!'.
-2. Declarar una variable salutation. Llame a la función greety asigne el resultado de la llamada a la variable salutation.
-```psc
-function greet (){
-return 'Haydo!';
-};
-let salutation = greet();
-```
-# ejercicio
-¿ Qué valor tiene xdespués de la ejecución del siguiente código?
-```psc
-function reply(phrase) {
-  return phrase;
-}
-let x = reply('How do you do?');
-
-respuesta = 'How do you do?'
-```
-# ejercicio
-Escriba una función echoque también devuelva el parámetro pasado. echo('Greta')debe volver 'Greta'y echo('CO2')debe volver'CO2'
-```psc
-function echo(Greta){
-  return Greta;
-}
-```
-# ejercicio
-Escriba una función greetque tenga un parámetro y regrese 'Hello <parameter>!'.
-```psc
-function greet(name) {
-  return 'Hello ' + name + '!';
-}
-```
-# ejercicio
-Escriba una función toCaseque tome una cadena y la devuelva en minúsculas y mayúsculas con -un delimitador.
-```psc
-function toCase (hola){
-return hola.toLowerCase()+ '-' + hola.toUpperCase();
-}
-```
-# ejercicio
-Escriba una función shortcutque tome dos cadenas y devuelva las letras iniciales de estas cadenas.
 
 ```psc
-function shortcut (Noemi, Veliz){
-return Noemi.charAt(0) + Veliz.charAt(0);
-}
+
 ```
-# ejercicio
-¿Qué valor tiene x después de la ejecución del siguiente código?
-```psc
-let x = 3;
-x++;
-x = x * 2;
-x--;
-respuesta = 8
-```
-# ejercicio 
 
 ```psc
+
 ```
-```psc
-```
-```psc
-```
-```psc
-```
-```psc
-```
-```psc
-```
+
 ```psc
 
+```
